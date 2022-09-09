@@ -16,9 +16,10 @@
 </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Pavliuk13&theme=dark&background=000000)](https://git.io/streak-stats)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Pavliuk13&count_private=true&theme=tokyonight&showicons=true)]()
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Pavliuk13&theme=tokyonight)](https://git.io/streak-stats)
 --
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavliuk13&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavliuk13&langs_count=5&theme=tokyonight)]()
 <!--
 **Pavliuk13/Pavliuk13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
