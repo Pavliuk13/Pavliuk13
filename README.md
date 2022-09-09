@@ -1,4 +1,4 @@
-### Hi there, I'm Vasiliy Pavliuk 👋
+### Hi there, I'm Vasiliy Pavliuk, .NET developer 👋
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
