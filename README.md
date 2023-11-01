@@ -32,7 +32,7 @@
 
 - ☁️ I've keen interest in cloud computing. So,I'm learning **Azure**
 
-- 📝 I regularly read articles on [Meidum](https://medium.com/)
+- 📝 I regularly read articles on [Medium](https://medium.com/)
 
 - 💬 Ask me about **C#, Angular, patterns, databases**
 
